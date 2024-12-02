@@ -1,0 +1,39 @@
+body {
+	background-image:url(https://i.pinimg.com/736x/93/1a/7a/931a7a96459f52c792beac5d46dc71e0.jpg);
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 3%;
+}
+
+.body {
+	color: white;
+	font-family: "DynaPuff", system-ui;
+	font-style: normal;
+ 	font-size: 18px;
+ 	color: white;
+}
+
+.container {
+	background-color: transparent;
+	outline: 2px #F05A7E;
+	padding: 20px;
+	background-color:#F05A7E ;
+}
+
+h1 {
+	font-family: "DynaPuff", system-ui;
+ 	font-weight: 400;
+ 	font-style: normal;
+ 	text-align: center;
+ 	font-size: 50px;
+ 	color: white;
+}
+
+.PRP {
+	color: white;
+}
+
+h6 {
+	text-align: center;
+	color: white;
+}
